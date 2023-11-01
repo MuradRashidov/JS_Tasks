@@ -2,7 +2,8 @@
 let widthOfRectangle = parseInt(prompt("Enter width of rectangle."));
 let lengthOfRectangle = parseInt(prompt("Enter length of rectangle."));
 let areaOfRectangle = widthOfRectangle*lengthOfRectangle;
-alert(`Area of rectangle = ${areaOfRectangle}`);
+//alert(`Area of rectangle = ${areaOfRectangle}`);
+alert("Area of rectangle = "+areaOfRectangle)
 
 // Task2
 let currentYear = 2023;
